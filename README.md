@@ -56,4 +56,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-Made with ❤️ by Sadaqat Ali.
+Made with ❤️ by QuickSilver.
